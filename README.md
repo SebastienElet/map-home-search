@@ -19,6 +19,8 @@ yarn start
 - [ ] Find dataset with square meters price
 - [ ] Choose a database to store the data
 - [ ] Display a heat map with square meters price
+- [ ] Setup CI
+- [ ] Setup testing
 - [ ] Find dataset with train travel time from Paris
 - [ ] Implement a rule system with points for each criteria
 - [ ] Find dataset with [geological risks](https://www.georisques.gouv.fr)
@@ -33,3 +35,5 @@ yarn start
 - [ ] Implement cycling paths in the rule system
 - [ ] Find dataset with cities debt
 - [ ] Implement cities debt in the rule system
+- [ ] Find dataset with doctors
+- [ ] Implement doctors in the rule system
