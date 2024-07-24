@@ -22,6 +22,7 @@ yarn start
 - [ ] Setup CI
 - [ ] Setup testing
 - [ ] Find dataset with train travel time from Paris
+- [ ] Add interface to switch between the datasets
 - [ ] Implement a rule system with points for each criteria
 - [ ] Find dataset with [geological risks](https://www.georisques.gouv.fr)
 - [ ] Implement geological risks in the rule system
@@ -37,3 +38,6 @@ yarn start
 - [ ] Implement cities debt in the rule system
 - [ ] Find dataset with doctors
 - [ ] Implement doctors in the rule system
+- [ ] Find dataset about security
+- [ ] Implement security in the rule system
+- [ ] Implement an interface to configure the rule system
