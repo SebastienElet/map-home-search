@@ -12,8 +12,9 @@ yarn start
 
 ## TODO
 
-- [ ] Find a front-end stack
+- [x] Find a front-end stack
 - [ ] Find a map library
+- [ ] Display a map
 - [ ] Choose library to share types between front and back
 - [ ] Setup a rest API to retrieve data
 - [ ] Find dataset with square meters price
@@ -41,3 +42,7 @@ yarn start
 - [ ] Find dataset about security
 - [ ] Implement security in the rule system
 - [ ] Implement an interface to configure the rule system
+
+## Links
+
+[ADR](./adr/)
