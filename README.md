@@ -10,6 +10,12 @@ yarn
 yarn start
 ```
 
+## Update dependencies
+
+```bash
+npx npm-check-updates --interactive
+```
+
 ## TODO
 
 - [x] Find a front-end stack
