@@ -6,14 +6,29 @@
 ## How to use it
 
 ```bash
-yarn
-yarn start
+npm
+npm start
 ```
 
 ## Update dependencies
 
 ```bash
 npx npm-check-updates --interactive
+```
+
+## Architecture
+
+```plaintext
+/pages/
+      /page1.tsx
+/components/
+      /map/ -- Model name
+            /components -- Reusable components
+            /views -- Specific components
+```
+
+```
+
 ```
 
 ## TODO
